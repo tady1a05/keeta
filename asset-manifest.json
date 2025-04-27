@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/keeta/static/css/main.13555de5.css",
+    "main.js": "/keeta/static/js/main.d2f8d974.js",
+    "index.html": "/keeta/index.html",
+    "main.13555de5.css.map": "/keeta/static/css/main.13555de5.css.map",
+    "main.d2f8d974.js.map": "/keeta/static/js/main.d2f8d974.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13555de5.css",
+    "static/js/main.d2f8d974.js"
+  ]
+}
